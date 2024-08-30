@@ -1,2 +1,2 @@
 # netflixclone
-netflixclone app
+netflixclone app.
